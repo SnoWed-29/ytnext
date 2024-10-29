@@ -14,7 +14,7 @@ bun dev
 
 ## About the Project
 
-Its a Web App where you can Submit Ideas, Vote on Pitches, and Get Noticed in Virtual Competitions.
+This project showcases the latest features of Next.js 15, including Next.js Form for seamless client-side form submissions, Unstable After for background tasks, Server Component HMR Cache for faster development, and Partial Prerendering for performance optimization.
 
 ## techs
 
